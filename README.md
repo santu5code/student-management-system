@@ -1,5 +1,13 @@
 <p>This project is simple student management web project in which user can enter the name of student and other details which can be later edited deleted.</p><br><br>
-<p> here are some screenshot of web pages</p>
+<p> Here are some screenshot of web pages</p>
+<p>This is first page of my web site where you can see all the list of student</P>
+![firstpage](https://user-images.githubusercontent.com/42029302/111565272-12df6400-87c1-11eb-8df2-50faa51008e3.png)
+<p>This is create page of my web site where you can enter the details and see all the list of student</P>
+![create](https://user-images.githubusercontent.com/42029302/111565234-0824cf00-87c1-11eb-8aa5-6ae27129230e.png)
+<p>This is footer of my web site</P>
+![footer](https://user-images.githubusercontent.com/42029302/111565290-1a9f0880-87c1-11eb-84da-c7d2ba79b6cd.png)
+<p>This is edit page of my web site where you can edit the details from list of student</P>
+![edit](https://user-images.githubusercontent.com/42029302/111565253-0f4bdd00-87c1-11eb-874c-e5ef92a7adb6.png)
 
 
 
