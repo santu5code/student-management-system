@@ -2,7 +2,7 @@ This project is simple student management web project in which user can enter th
  Here are some screenshot of web pages
 This is first page of my web site where you can see all the list of student
 ![firstpage](https://user-images.githubusercontent.com/42029302/111565272-12df6400-87c1-11eb-8df2-50faa51008e3.png)
-<p>This is create page of my web site where you can enter the details and see all the list of student</P>
+This is create page of my web site where you can enter the details and see all the list of student
 ![create](https://user-images.githubusercontent.com/42029302/111565234-0824cf00-87c1-11eb-8aa5-6ae27129230e.png)
 This is footer of my web site
 ![footer](https://user-images.githubusercontent.com/42029302/111565290-1a9f0880-87c1-11eb-84da-c7d2ba79b6cd.png)
